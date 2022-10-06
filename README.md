@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonnalasarada
-- 👀 I’m interested in Automation Testing
+- 👀 I’m interested in doing  Automation Testing
 - 🌱 I’m currently learning BDD Framework
 - 💞️ I’m looking to collaborate on Automation Testing
 - 📫 How to reach me jonnalasarada@gmail.com
